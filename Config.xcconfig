@@ -4,7 +4,6 @@
 #include? "../../LoopFollowDisplayNameConfig.xcconfig"
 
 unique_id = ${DEVELOPMENT_TEAM}
-app_suffix = 2
 
 //Version (DEFAULT)
 LOOP_FOLLOW_MARKETING_VERSION = 7.1.0
